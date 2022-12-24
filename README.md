@@ -1,4 +1,4 @@
-<h2><a  href="https://kind-roentgen-6df27c.netlify.app/" target="_blank">Demo</a></h2>
+<h2><a  href="https://tesla-desg.netlify.app/" target="_blank">Live Site</a></h2>
 <h2>Tech:</h2>
   <ul>
     <li>React.js</li>
